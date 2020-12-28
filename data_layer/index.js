@@ -34,6 +34,7 @@ const createLink = async (url, comment) => {
   }
 }
 // get link by id
+// need to complete
 
 async function createInitialLinks() {
   try {
